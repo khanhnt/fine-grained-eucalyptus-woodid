@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Shared utilities for manuscript robustness experiments.
 
-These helpers intentionally mirror the existing root-level scripts rather than
-replacing them. They provide reusable pieces for repeated-split training,
-leakage audits, and calibration/OOD evaluation.
+The module provides reusable pieces for repeated-split training, leakage
+audits, calibration/OOD evaluation, model construction, and manifest-based
+image loading.
 """
 
 from __future__ import annotations

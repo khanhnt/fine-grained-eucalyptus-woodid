@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """Repeated acquisition/specimen-group-disjoint split evaluation.
 
-This script adds robustness experiments for the manuscript without modifying
-the existing root-level training pipeline. It reuses the same model families,
+This script runs robustness experiments using the same model families,
 ImageNet normalization, augmentation policy, checkpoint dictionary style, and
-specimen-group parser used by the current project utilities.
+specimen-group parser as the benchmark utilities.
 """
 
 from __future__ import annotations
