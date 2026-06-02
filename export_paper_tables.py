@@ -56,9 +56,11 @@ SPECIES_LATEX = {
     "Eucalyptus_grandis": r"\textit{E. grandis}",
     "Eucalyptus_microcorys": r"\textit{E. microcorys}",
     "Eucalyptus_saligna": r"\textit{E. saligna}",
+    "Eucalyptus_deglupta": r"\textit{E. deglupta}",
     "Eucalyptus_daglupta": r"\textit{E. daglupta}",
     "Eucalyptus_diversicolor": r"\textit{E. diversicolor}",
     "Eucalyptus_cladocalyx": r"\textit{E. cladocalyx}",
+    "Eucalyptus_camaldulensis": r"\textit{E. camaldulensis}",
     "Eucalyptus_camandulensis": r"\textit{E. camandulensis}",
     "Syzygium_hemisphericum": r"\textit{S. hemisphericum}",
 }
@@ -67,9 +69,11 @@ SPECIES_MD = {
     "Eucalyptus_grandis": "E. grandis",
     "Eucalyptus_microcorys": "E. microcorys",
     "Eucalyptus_saligna": "E. saligna",
+    "Eucalyptus_deglupta": "E. deglupta",
     "Eucalyptus_daglupta": "E. daglupta",
     "Eucalyptus_diversicolor": "E. diversicolor",
     "Eucalyptus_cladocalyx": "E. cladocalyx",
+    "Eucalyptus_camaldulensis": "E. camaldulensis",
     "Eucalyptus_camandulensis": "E. camandulensis",
     "Syzygium_hemisphericum": "S. hemisphericum",
 }

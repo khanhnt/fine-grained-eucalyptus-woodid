@@ -58,9 +58,11 @@ SHORT_NAMES = {
     "Eucalyptus_grandis": "E. grandis",
     "Eucalyptus_microcorys": "E. microcorys",
     "Eucalyptus_saligna": "E. saligna",
+    "Eucalyptus_deglupta": "E. deglupta",
     "Eucalyptus_daglupta": "E. daglupta",
     "Eucalyptus_diversicolor": "E. diversicolor",
     "Eucalyptus_cladocalyx": "E. cladocalyx",
+    "Eucalyptus_camaldulensis": "E. camaldulensis",
     "Eucalyptus_camandulensis": "E. camandulensis",
     "Syzygium_hemisphericum": "Syzygium",
 }
