@@ -1,0 +1,25 @@
+split,class_name,n_images
+test,Eucalyptus camaldulensis,56
+test,Eucalyptus cladocalyx,52
+test,Eucalyptus deglupta,36
+test,Eucalyptus diversicolor,67
+test,Eucalyptus grandis,63
+test,Eucalyptus microcorys,51
+test,Eucalyptus saligna,51
+test,Syzygium hemisphericum,19
+train,Eucalyptus camaldulensis,200
+train,Eucalyptus cladocalyx,244
+train,Eucalyptus deglupta,234
+train,Eucalyptus diversicolor,232
+train,Eucalyptus grandis,296
+train,Eucalyptus microcorys,291
+train,Eucalyptus saligna,295
+train,Syzygium hemisphericum,237
+val,Eucalyptus camaldulensis,32
+val,Eucalyptus cladocalyx,52
+val,Eucalyptus deglupta,56
+val,Eucalyptus diversicolor,38
+val,Eucalyptus grandis,63
+val,Eucalyptus microcorys,52
+val,Eucalyptus saligna,51
+val,Syzygium hemisphericum,142

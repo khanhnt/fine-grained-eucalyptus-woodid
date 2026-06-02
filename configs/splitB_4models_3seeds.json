@@ -1,0 +1,27 @@
+{
+  "dataset": "IC4SD-Wood-Eucalyptus",
+  "manuscript": "Deep Learning for Fine-Grained Eucalyptus Species Identification Using Macroscopic Wood Cross-Section Images",
+  "split": "Split B strict pHash-clean split",
+  "split_manifest": "manifests/split_B_strict.csv",
+  "models": [
+    "resnet50",
+    "efficientnet_b4",
+    "convnext_tiny",
+    "vit_b16"
+  ],
+  "seeds": [
+    42,
+    2025,
+    3407
+  ],
+  "epochs": 50,
+  "batch_size_224_models": 64,
+  "batch_size_vit_b16": 24,
+  "optimizer": "AdamW",
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01,
+  "scheduler": "CosineAnnealingLR",
+  "loss": "CrossEntropyLoss(label_smoothing=0.1)",
+  "main_model_for_figures": "convnext_tiny",
+  "main_model_seed": 3407
+}

@@ -1,0 +1,23 @@
+# Python 3.10+ recommended.
+# For RTX 4090/3090 with CUDA 12.x, install a PyTorch build compatible with
+# your installed NVIDIA driver. Example for CUDA 12.4:
+#   python -m pip install --force-reinstall torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.6.0
+torchvision==0.21.0
+timm>=0.9.16
+
+numpy>=1.24,<3
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.7
+Pillow>=10.0
+tqdm>=4.66
+tabulate>=0.9
+
+grad-cam>=1.5.0
+opencv-python-headless>=4.8
+einops>=0.7
+imagehash>=4.3

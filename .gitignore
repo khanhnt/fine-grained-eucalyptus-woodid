@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+
+# Local datasets, checkpoints, generated outputs
+data/
+data_*/
+raw/
+test_external/
+checkpoints/
+results/
+outputs/
+
+# Large or machine-specific artifacts
+*.pth
+*.pt
+*.ckpt
+*.log
+nohup.out
+
+# Keep paper summary CSVs tracked in results_summary/
+!results_summary/
+!results_summary/*.csv
+!results_summary/*.md

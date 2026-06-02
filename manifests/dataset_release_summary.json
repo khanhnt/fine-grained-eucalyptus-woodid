@@ -1,0 +1,30 @@
+{
+  "created_at_utc": "2026-05-17T15:52:27+00:00",
+  "source_raw_root": "/content/Archive",
+  "output_root": "/content/drive/MyDrive/2.Work/1.PTIT/1.Ca_nhan/2.Research/2026/WoodID/public_dib_code/dataset",
+  "n_images": 2910,
+  "split_counts": {
+    "train": 2029,
+    "val": 486,
+    "test": 395
+  },
+  "class_counts": {
+    "Eucalyptus camaldulensis": 288,
+    "Eucalyptus cladocalyx": 348,
+    "Eucalyptus deglupta": 326,
+    "Eucalyptus diversicolor": 337,
+    "Eucalyptus grandis": 422,
+    "Eucalyptus microcorys": 394,
+    "Eucalyptus saligna": 397,
+    "Syzygium hemisphericum": 398
+  },
+  "folder_name_style": "underscore",
+  "copy_mode": "copy",
+  "release_files": {
+    "raw": "/content/drive/MyDrive/2.Work/1.PTIT/1.Ca_nhan/2.Research/2026/WoodID/public_dib_code/dataset/raw",
+    "metadata_csv": "/content/drive/MyDrive/2.Work/1.PTIT/1.Ca_nhan/2.Research/2026/WoodID/public_dib_code/dataset/metadata/metadata.csv",
+    "split_csv": "/content/drive/MyDrive/2.Work/1.PTIT/1.Ca_nhan/2.Research/2026/WoodID/public_dib_code/dataset/splits/split_B_strict.csv",
+    "release_manifest": "/content/drive/MyDrive/2.Work/1.PTIT/1.Ca_nhan/2.Research/2026/WoodID/public_dib_code/dataset/metadata/release_manifest.csv",
+    "counts": "/content/drive/MyDrive/2.Work/1.PTIT/1.Ca_nhan/2.Research/2026/WoodID/public_dib_code/dataset/metadata/release_counts.csv"
+  }
+}
