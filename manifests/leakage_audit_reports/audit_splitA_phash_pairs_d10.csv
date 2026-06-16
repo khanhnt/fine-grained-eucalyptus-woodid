@@ -1,0 +1,16 @@
+class_name,image_1,split_1,image_2,split_2,hamming_distance,phash_1,phash_2
+Eucalyptus diversicolor,Eucalyptus_diversicolor/3360.Bạch đàn karigum.8/3360.Bạch đàn karigum.8(257).png,val,Eucalyptus_diversicolor/3360.Bạch đàn karigum.9/3360.Bạch đàn karigum.9 (291).png,train,0,952a7eb5d4275c84,952a7eb5d4275c84
+Eucalyptus grandis,Eucalyptus_grandis/3284_RIFI/328438.png,test,Eucalyptus_grandis/3284_RIFI/328439.png,train,2,a85a4fb8173427ba,a85a4dbc173427ba
+Eucalyptus grandis,Eucalyptus_grandis/Eucalyptus grandis.3284.5 (139).png,test,Eucalyptus_grandis/Eucalyptus grandis.3284.6 (156).png,val,6,b0befa74ccc0a81b,b0bef275c880ba1b
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A031 - 20240323_231440.png,test,Eucalyptus_microcorys/3283/indoor/A032 - 20240323_231442.png,train,6,d26f342666b75099,d24f352646b754b8
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A025 - 20240323_231409.png,train,Eucalyptus_microcorys/3283/indoor/A026 - 20240323_231411.png,val,6,d4ed44d661562753,c4ed44d2455727d3
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A030 - 20240323_231439.png,train,Eucalyptus_microcorys/3283/indoor/A031 - 20240323_231440.png,test,8,d24f35b66ea75090,d26f342666b75099
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A027 - 20240323_231413.png,train,Eucalyptus_microcorys/3283/indoor/A028 - 20240323_231416.png,test,8,d46543d0555353d7,d46553d051d3595e
+Eucalyptus grandis,Eucalyptus_grandis/3284_RIFI/328421.png,train,Eucalyptus_grandis/3284_RIFI/328422.png,test,10,dcc7a08f4e943927,dcd5b5872a143927
+Eucalyptus grandis,Eucalyptus_grandis/3284_RIFI/328429.png,val,Eucalyptus_grandis/3284_RIFI/328430.png,train,10,aa44ebe9ebc2c24a,abe5e3e5ebc2400a
+Eucalyptus grandis,Eucalyptus_grandis/3284_RIFI/328429.png,val,Eucalyptus_grandis/3284_RIFI/328431.png,train,10,aa44ebe9ebc2c24a,abe5e3e5ebc2400a
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A029 - 20240323_231430.png,train,Eucalyptus_microcorys/3283/indoor/A031 - 20240323_231440.png,test,10,d66f352645b1503b,d26f342666b75099
+Eucalyptus microcorys,Eucalyptus_microcorys/Eucalyptus microcorys.3283.3 (68).png,train,Eucalyptus_microcorys/Eucalyptus microcorys.3283.4 (93).png,val,10,80be81bf40eb80ff,a0fc80df00ff00ff
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A021 - 20240323_231404.png,test,Eucalyptus_microcorys/3283/indoor/A022 - 20240323_231405.png,train,10,cde148d66903e56b,d5e948d669526761
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A024 - 20240323_231408.png,train,Eucalyptus_microcorys/3283/indoor/A026 - 20240323_231411.png,val,10,d4ed44d668566752,c4ed44d2455727d3
+Eucalyptus microcorys,Eucalyptus_microcorys/3283/indoor/A041 - 20240323_231509.png,val,Eucalyptus_microcorys/3283/indoor/A042 - 20240323_231510.png,test,10,d0be354c45e83ea3,d0be35cc5549782b

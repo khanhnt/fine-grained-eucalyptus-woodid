@@ -1,0 +1,7 @@
+audit_stage,split_A,split_B
+Parsed-group overlap,0,0
+Exact cross-partition file hash,0,0
+Filename overlap,0,0
+pHash Hamming <= 5,2,0
+pHash Hamming <= 10,15,0
+Feature nearest-neighbour,manual review,manual review

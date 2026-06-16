@@ -1,0 +1,3 @@
+class_name,image_1,split_1,image_2,split_2,hamming_distance,phash_1,phash_2
+Eucalyptus diversicolor,Eucalyptus_diversicolor/3360.Bạch đàn karigum.8/3360.Bạch đàn karigum.8(257).png,val,Eucalyptus_diversicolor/3360.Bạch đàn karigum.9/3360.Bạch đàn karigum.9 (291).png,train,0,952a7eb5d4275c84,952a7eb5d4275c84
+Eucalyptus grandis,Eucalyptus_grandis/3284_RIFI/328438.png,test,Eucalyptus_grandis/3284_RIFI/328439.png,train,2,a85a4fb8173427ba,a85a4dbc173427ba
