@@ -64,7 +64,7 @@ Eucalyptus saligna
 Syzygium hemisphericum
 ```
 
-The dataset is expected to be available separately as a raw image release. The raw dataset folder should contain one top-level folder per species, with images possibly stored directly inside the species folder or in nested acquisition/specimen folders.
+The dataset is released separately on Zenodo: **DOI 10.5281/zenodo.20264236** (https://doi.org/10.5281/zenodo.20264236). The raw dataset folder should contain one top-level folder per species, with images possibly stored directly inside the species folder or in nested acquisition/specimen folders.
 
 This repository includes split manifests under `manifests/`:
 
@@ -416,30 +416,20 @@ Threshold-based known/OOD rejection statistics
 
 ## Citations
 
-If you use this repository, cite the associated dataset and research manuscript:
+If you use this repository, please cite the manuscript and the datasets:
 
-```text
-Deep Learning for Fine-Grained Eucalyptus Species Identification Using
-Macroscopic Wood Cross-Section Images.
-```
+- Nguyen-Trong K, Nguyen-Thi T. *Leakage-aware evaluation of deep learning models for fine-grained Eucalyptus wood identification from macroscopic transverse-section images.* PeerJ Computer Science, 2026 (in review). [add DOI, volume, and pages on publication]
+- Nguyen-Trong K, Nguyen-Thi T. *IC4SD-Wood-Eucalyptus* (dataset). Zenodo, 2026. DOI: 10.5281/zenodo.20264236.
+- Cano Sáenz DA, Ordóñez Urbano CF, Gaitán Mesa HR, Vargas-Cañas R. *Tropical wood species recognition: A dataset of macroscopic images.* Data, 2022, 7(8):111. DOI: 10.3390/data7080111. (external *Eucalyptus globulus* images, used only for the unseen-species/OOD stress test)
 
-Also cite the dataset release:
-
-```text
-IC4SD-Wood-Eucalyptus dataset release.
-```
-
-The final DOI, journal name, volume, pages, and year should be cited when the article is formally published. At the review stage, cite the manuscript title and dataset release name shown above.
+At the review stage, cite the manuscript title and the dataset DOI shown above; add the final journal DOI, volume, pages, and year once the article is formally published.
 
 ## License and Contribution Guidelines
 
-This repository is intended for academic reproducibility and manuscript review.
-
-- Raw images are not distributed in this repository.
-- Dataset use should follow the license and access conditions of the dataset release.
-- No standalone software license is currently declared in this repository.
-- Until a formal `LICENSE` file is added, the code is provided for academic review and reproducibility checking.
-- Contributions should preserve reproducibility: include configuration files, random seeds, split manifests, and clear output paths for any new experiment.
+- **Code license:** MIT License (see the `LICENSE` file in the repository root). The code is released under an open license to support reproducibility and reuse.
+- **Dataset license:** The IC4SD-Wood-Eucalyptus dataset is released separately on Zenodo (DOI: 10.5281/zenodo.20264236) under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Raw images are not redistributed in this repository.
+- **External data:** The external *Eucalyptus globulus* images used for the unseen-species/OOD evaluation come from Cano Sáenz et al. (2022), *Data* 7(8):111 (DOI: 10.3390/data7080111), licensed under CC BY 4.0; they are not redistributed here and must be obtained from the original source under that license.
+- **Contributions:** Contributions should preserve reproducibility: include configuration files, random seeds, split manifests, and clear output paths for any new experiment.
 
 ## Contact
 
