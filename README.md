@@ -1,8 +1,8 @@
-# Fine-Grained Eucalyptus WoodID
+# Leakage-Aware Eucalyptus Wood Identification
 
 Companion research code for the manuscript:
 
-**Deep Learning for Fine-Grained Eucalyptus Species Identification Using Macroscopic Wood Cross-Section Images**
+**Leakage-aware evaluation of deep learning models for fine-grained *Eucalyptus* wood identification from macroscopic transverse-section images**
 
 This repository contains the code, split manifests, and summary files needed to reproduce the main machine-learning experiments reported in the manuscript. It is separate from the dataset release repository so that the research-code package remains focused on model training, evaluation, robustness analysis, and figure/table generation.
 
