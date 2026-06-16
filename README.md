@@ -113,6 +113,7 @@ Summary and supplementary result files:
 results_summary/test_results_splitB_4models_3seeds.csv
 results_summary/splitB_final_multiseed_summary.csv
 supplementary/training_logs/
+supplementary/calibration_ood/
 manifests/leakage_audit_reports/
 ```
 
