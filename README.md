@@ -102,6 +102,7 @@ Utility scripts:
 ```text
 scripts/materialize_split.py        Build ImageFolder train/val/test folders from a split CSV
 scripts/run_leakage_audit.py        Leakage and near-duplicate audit
+scripts/export_phash_audit_reports.py Split A/Split B pHash audit CSV export
 scripts/evaluate_calibration_ood.py Calibration and OOD/unseen-species evaluation
 scripts/run_repeated_splits.py      Repeated group-disjoint split experiments
 scripts/paper_utils.py              Shared model, data, metric, and plotting utilities

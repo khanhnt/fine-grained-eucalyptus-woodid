@@ -50,6 +50,15 @@ python scripts/run_leakage_audit.py \
   --top-k 5
 ```
 
+To regenerate the Split A/Split B pHash supplementary CSV reports, provide the
+dataset root so Split A image hashes can be computed:
+
+```bash
+python scripts/export_phash_audit_reports.py \
+  --raw-root /path/to/IC4SD-Wood-Eucalyptus \
+  --output-dir manifests/leakage_audit_reports
+```
+
 ## 6. Calibration and OOD
 
 ```bash
